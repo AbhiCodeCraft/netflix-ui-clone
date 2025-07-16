@@ -6,7 +6,7 @@ A responsive clone of the Netflix landing page built using **HTML** and **CSS**.
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the project](#) *(I’ll add the Netlify or GitHub Pages link here once deployed)*
+👉 [[Click here to view the project](https://abhishek-net-flix-ui-clone.netlify.app/)](#) 
 
 ---
 
